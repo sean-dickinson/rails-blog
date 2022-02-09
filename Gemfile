@@ -22,6 +22,7 @@ gem "tzinfo-data", platforms: %i[mingw mswin x64_mingw jruby]
 gem 'jsbundling-rails', "~> 1.0"
 gem 'cssbundling-rails', "~> 1.0"
 gem "stimulus-rails", "~> 1.0"
+gem "slim-rails", "~> 3.3"
 
 group :development, :test do
   gem "byebug", platforms: %i[mri mingw x64_mingw]
